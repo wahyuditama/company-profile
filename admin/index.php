@@ -59,10 +59,10 @@
                   <h4>General</h4>
                   <ul class="list-unstyled components">
                      <li class="active">
-                        <a href="#dashboard" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fa fa-dashboard yellow_color"></i> <span>Dashboard</span></a>
+                        <a href="#dashboard" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fa fa-dashboard yellow_color"></i> <span>Manage Account</span></a>
                         <ul class="collapse list-unstyled" id="dashboard">
                            <li>
-                              <a href="dashboard.html">> <span>Default Dashboard</span></a>
+                              <a href="data-user.php">> <span>Data User</span></a>
                            </li>
                            <li>
                               <a href="dashboard_2.html">> <span>Dashboard style 2</span></a>
